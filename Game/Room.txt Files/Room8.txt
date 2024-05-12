@@ -1,0 +1,256 @@
+########## Legend ##########
+# . : OPEN_SPOT
+# B : BASE
+# E : EGG_SHAPE
+# Z : VERT_PIPE (formerly PIPE_VERT)
+# F : FACE
+# W : WEB
+# R : TRIANGLE_RIGHT
+# L : TRIANGLE_LEFT
+# P : HORIZ_PIPE (formerly PIPE_HORIZ)
+# S : SPIRAL
+# M : METAL_BLOCK
+# D : DOOR_SQUARE
+# T : LAVA_TOP
+# A : LAVA
+# X : MARIO_TUBE_BLUE_LEFT
+# Y : MARIO_TUBE_BLUE_RIGHT
+# U : BUBBLE
+# Q : SMALL_PIPE
+# I : WHITE_PIPE_VERT
+# Z : WHITE_PIPE_HORIZ
+# N : WHITE_METAL
+# C : WHITE_DOUBLE_PIPE
+# Room Name: Blue-tinted shaft #2 ("Gold tinted Shaft")
+# Powerups: None
+############################
+
+BPBBBPBBBPBBBPBB
+BWBZBWBZBWBZBWBZ
+ZBBBZBBBZBBBZBBB
+BBWBBBWBBPBBBBWB
+BZBBBZBBBWBPBZBB
+BWBZBWBZZBBBBWBZ
+ZBBBZBBBBBWBZBBB
+BBWBBPBBBPBBBBWB
+BPBBBWBZBWBZBPBB
+BWBZZBBBZBBBBWBZ
+ZBBBBBWBBBWBZBBB
+BPBBBPBBBPBBBBWB
+BWBZBWBZBWBZBPBB
+ZBBBZBBBZBBBBWBZ
+BBWBBBWBBBWBZBBB
+SS..BPB.......SS
+WB............WB
+BZ............BZ
+ZZ............ZZ
+BB.....BPPB...BB
+SS............SS
+SS............WZ
+SS............BZ
+SSBPB.........ZZ
+WB..........BPBB
+BZ............SS
+ZZ....BPB.....WB
+SS............BZ
+WB............ZZ
+BZ............BB
+SS............SS
+WBBPB.........WB
+BZ............BZ
+ZZ.....BPB....BZ
+BB............BB
+SS............SS
+WB............WB
+BZ.BPB........BZ
+ZZ........BPB.ZZ
+BB............BB
+SS............SS
+WB....BPPB....WB
+BZ............WZ
+ZZ............ZZ
+BB............BB
+SS............SS
+SS............SS
+WBBPB.........WB
+BZ............BZ
+ZZ.....BPB....BZ
+BB............BB
+SS............SS
+WB............WB
+BZ.BPB........BZ
+ZZ........BPB.ZZ
+BB............BB
+SS............SS
+WB....BPPB....WB
+BZ............BZ
+ZZ............ZZ
+BB............BB
+SS..BPB.......SS
+WB............WB
+BZ............BZ
+ZZ............ZZ
+BB.....BPPB...BB
+D.............SS
+D.............WB
+D.............BZ
+SSBPB.........ZZ
+WB..........BPBB
+BZ............SS
+ZZ....BPB.....WB
+SS............BZ
+WB............ZZ
+BZ............BB
+SS............SS
+WBBPB.........WB
+BZ............BZ
+ZZ.....BPB....ZZ
+BB............BB
+SS............SS
+WB............WB
+BZ.BPB........BZ
+ZZ........BPB.ZZ
+BB............BB
+SS............SS
+WB....BPPB....WB
+BZ............BZ
+ZZ............ZZ
+BB............BB
+SSBPPB........SS
+WB............WB
+BZ............BZ
+ZZ............ZZ
+BB............BB
+D......BPB.....D
+D..............D
+D..............D
+SSBPB......BPBSS
+B.............WB
+SS............BZ
+WB............ZZ
+BZ.....BPPB...BB
+ZZ............SS
+BB............WB
+SS............SS
+WBBPB.........WB
+BZ............BZ
+ZZ.....BPB....ZZ
+BB............BB
+SS............SS
+WB............WB
+BZ.BPB........BZ
+ZZ........BPB.ZZ
+BB............BB
+SS............SS
+WB....BPPB....WB
+BZ............BZ
+ZZ............ZZ
+BB............BB
+SS............SS
+WBBPB.........WB
+BZ............BZ
+ZZ.....BPB....ZZ
+BB............BB
+SS............SS
+WB............WB
+BZ.BPB........BZ
+ZZ........BPB.ZZ
+BB............BB
+SS............SS
+WB....BPPB....WB
+BZ............BZ
+ZZ............ZZ
+BB............BB
+SS............SS
+BWWPB.........WB
+BZ............BZ
+BZ............BZ
+ZZ.....BPB....ZZ
+BB............BB
+SS............SS
+WB............WB
+BZ.BPB........BZ
+ZZ........BPB.ZZ
+BB............BB
+SS............SS
+WB....BPPB....WB
+BZ............BZ
+ZZ............ZZ
+BB............BB
+SS............SS
+WBBPB.........WB
+BZ............BZ
+ZZ.....BPB....ZZ
+BB............BB
+SS............SS
+WB............WB
+BZ.BPB........BZ
+ZZ........BPB.ZZ
+BB............BB
+SS............SS
+WB....BPPB....WB
+BZ............BZ
+ZZ............ZZ
+BB............BB
+SS............SS
+WBBPB.........WB
+BZ............BZ
+ZZ.....BPB....ZZ
+BB............BB
+SS............SS
+WB............WB
+BZ.BPB........BZ
+ZZ........BPB.ZZ
+BB............BB
+SS............SS
+WB....BPPB....WB
+BZ............BZ
+ZZ............ZZ
+BB............BB
+SS............SS
+WBBPB.........WB
+BZ............BZ
+ZZ.....BPB....ZZ
+BB............BB
+SS............SS
+WB............WB
+BZ.BPB........BZ
+ZZ........BPB.ZZ
+BB............BB
+SS............SS
+WB....BPPB....WB
+BZ............BZ
+ZZ............ZZ
+BB............BB
+SS..BPB.......SS
+WB............WB
+BZ............BZ
+ZZ............ZZ
+BB.....BPPB...BB
+SS.............D
+SS.............D
+SS.............D
+SS.........BPBZZ
+WB............BB
+BBBPB.........SS
+ZZ............WB
+SS.....BPPB...BZ
+WB............ZZ
+BZ............BB
+BPBBBPBBBPBBBPBB
+BWBZBWBZBWBZBWBZ
+ZBBBZBBBZBBBZBBB
+BBWBBBWBBPBBBBWB
+BZBBBZBBBWBPBZBB
+BWBZBWBZZBBBBWBZ
+ZBBBZBBBBBWBZBBB
+BBWBBPBBBPBBBBWB
+BPBBBWBZBWBZBPBB
+BWBZZBBBZBBBBWBZ
+ZBBBBBWBBBWBZBBB
+BPBBBPBBBPBBBBWB
+BWBZBWBZBWBZBPBB
+ZBBBZBBBZBBBBWBZ
+BBWBBBWBBBWBZBBB
+
+

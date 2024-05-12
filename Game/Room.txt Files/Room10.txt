@@ -1,0 +1,42 @@
+########## Legend ##########
+# . : OPEN_SPOT
+# B : BASE
+# E : EGG_SHAPE
+# Z : VERT_PIPE (formerly PIPE_VERT)
+# F : FACE
+# W : WEB
+# R : TRIANGLE_RIGHT
+# L : TRIANGLE_LEFT
+# P : HORIZ_PIPE (formerly PIPE_HORIZ)
+# S : SPIRAL
+# M : METAL_BLOCK
+# D : DOOR_SQUARE
+# T : LAVA_TOP
+# A : LAVA
+# X : MARIO_TUBE_BLUE_LEFT
+# Y : MARIO_TUBE_BLUE_RIGHT
+# U : BUBBLE
+# Q : SMALL_PIPE
+# I : WHITE_PIPE_VERT
+# Z : WHITE_PIPE_HORIZ
+# N : WHITE_METAL
+# C : WHITE_DOUBLE_PIPE
+# Room Name: Corridor Number 4 - Part 1
+# Powerups: None
+############################
+
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU......UU......UU......UU.....UU......UU......UU......UU..UUU
+UU...........................................................UUU
+UU...........................................................UUU
+UU...........................................................UUU
+D..............................................................D
+D..............................................................D
+D..............................................................D
+UUUUUU......................................................UUUU
+UU...........................................................UUU
+UU..........................UUUU............UUUU.............UUU
+UU..........UUUU....UUUUUU..........UUUUUU.............UU....UUU
+UU....UUUUUUUU..........UU..............UU........UU...UU....UUU
+UTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTUU
+UAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUU

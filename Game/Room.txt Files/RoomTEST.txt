@@ -1,0 +1,27 @@
+########## Legend ##########
+# . : OPEN_SPOT
+# B : BASE
+# L : TRIANGLE_LEFT
+# R : TRIANGLE_RIGHT
+# F : FACE
+# S : SPIRAL_BLOCK
+# M : METAL_BLOCK
+# W : WEB
+# E : EGG_SHAPE
+# T : DOOR_TOP
+# Y : DOOR_MIDDLE
+# D : DOOR_BOTTOM
+# X : DOOR_CUBES
+############################
+
+
+##########
+#BBBBBBBB#
+#B......B#
+#B......B#
+#B......E#
+#B..B...E#
+#B......B#
+#B......B#
+#B......B#
+##########

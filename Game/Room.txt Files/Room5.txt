@@ -1,0 +1,44 @@
+########## Legend ##########
+# . : OPEN_SPOT
+# B : BASE
+# E : EGG_SHAPE
+# Z : VERT_PIPE (formerly PIPE_VERT)
+# F : FACE
+# W : WEB
+# R : TRIANGLE_RIGHT
+# L : TRIANGLE_LEFT
+# P : HORIZ_PIPE (formerly PIPE_HORIZ)
+# S : SPIRAL
+# M : METAL_BLOCK
+# D : DOOR_SQUARE
+# T : LAVA_TOP
+# A : LAVA
+# X : MARIO_TUBE_BLUE_LEFT
+# Y : MARIO_TUBE_BLUE_RIGHT
+# U : BUBBLE
+# Q : SMALL_PIPE
+# I : WHITE_PIPE_VERT
+# Z : WHITE_PIPE_HORIZ
+# N : WHITE_METAL
+# C : WHITE_DOUBLE_PIPE
+# Room Name: Long Beam Corridor
+# Powerups: None
+############################
+
+ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+Z.............................................Z
+Z.............................................Z
+Z.............................................Z
+D.............................................D
+D.............................................D
+D.............................................D
+ZCCCCCCCC.............................CCCCCCCCZ
+Z....M...................................M....Z
+Z....M...................................M....Z
+Z....Z...................................Z....Z
+Z....Z...................................Z....Z
+ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ

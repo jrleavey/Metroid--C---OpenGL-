@@ -1,0 +1,36 @@
+########## Legend ##########
+# . : OPEN_SPOT
+# B : BASE
+# L : TRIANGLE_LEFT
+# R : TRIANGLE_RIGHT
+# F : FACE
+# S : SPIRAL_BLOCK
+# M : METAL_BLOCK
+# W : WEB
+# E : EGG_SHAPE
+# T : DOOR_TOP
+# Y : DOOR_MIDDLE
+# D : DOOR_BOTTOM
+# X : DOOR_CUBES
+# P : PIPE_HORIZ
+# Z : PIPE_VERT
+# Room Name: Fake Block Shaft
+# Powerups: None
+############################
+
+SWBBBBLBWWBBBBAA
+WBLRL..BBBLRL.WB
+BB.......B....BZ
+ZZ............ZZ
+BB............BB
+X..............X
+X...BWBBBBWB...X
+X..............X
+WWWWBBBBBBBBBPBB
+WWWW........BWBZ
+WWWW..BBBB..ZBBB
+SSWW..BBBB..BBSS
+WB............WB
+BZ............BZ
+SS............SS
+WBBPB.........WB

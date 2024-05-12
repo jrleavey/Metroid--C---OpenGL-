@@ -1,0 +1,35 @@
+########## Legend ##########
+# . : OPEN_SPOT
+# B : BASE
+# L : TRIANGLE_LEFT
+# R : TRIANGLE_RIGHT
+# F : FACE
+# S : SPIRAL_BLOCK
+# M : METAL_BLOCK
+# W : WEB
+# E : EGG_SHAPE
+# T : DOOR_TOP
+# Y : DOOR_MIDDLE
+# D : DOOR_BOTTOM
+# X : DOOR_CUBES
+# P : PIPE_HORIZ
+# Z : PIPE_VERT
+# Room Name: Overhang Corridor
+# Powerups: None
+############################
+
+SSWBBBBLBWWBBBBLWBBBBLBWWBBBBLBWBEEEWWWWWWWWWBBBWBBBBLBBEEEEBESS
+WBBLRL..BBBLRL..BLRL..BBBLRL..BBBBBWWWWWWWWWBLRLBLRL..BBBWWBBWWB
+BZB.......B.....B.......B..........WWWWWWWWWB...B.............BZ
+ZZ.................................WWWWWWWWW..................ZZ
+BB.................................WWWWWWWWW..................BB
+X..................................WWWWWWWWW...................X
+X..................................WWWWWWWWW...................X
+X..................................WWWWWWWWW...................X
+SSBPB..............................WWWWWWWWW.............BPPBSSS
+WB.................................WWWWWWWWW..................WB
+BZ.................................WWWWWWWWW..................BZ
+ZZ.................................WWWWWWWWW..................ZZ
+BB............................................................BB
+BEEEEBEEBEEEEBEEBEEEEBEEBEEEEBEEWWWWWWWWBEEEEBEEBEEEEBEEBEEEEBEE
+BBWWBBWBBBWWBBWBBBWWBBWBBBWWBBWBWWWWWWWWBBWWBBWBBBWWBBWBBBWWBBWB

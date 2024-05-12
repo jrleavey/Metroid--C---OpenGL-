@@ -1,0 +1,43 @@
+########## Legend ##########
+# . : OPEN_SPOT
+# B : BASE
+# E : EGG_SHAPE
+# Z : VERT_PIPE (formerly PIPE_VERT)
+# F : FACE
+# W : WEB
+# R : TRIANGLE_RIGHT
+# L : TRIANGLE_LEFT
+# P : HORIZ_PIPE (formerly PIPE_HORIZ)
+# S : SPIRAL
+# M : METAL_BLOCK
+# D : DOOR_SQUARE
+# T : LAVA_TOP
+# A : LAVA
+# X : MARIO_TUBE_BLUE_LEFT
+# Y : MARIO_TUBE_BLUE_RIGHT
+# U : BUBBLE
+# Q : SMALL_PIPE
+# I : WHITE_PIPE_VERT
+# Z : WHITE_PIPE_HORIZ
+# N : WHITE_METAL
+# C : WHITE_DOUBLE_PIPE
+# Room Name: Corridor No. 1
+# Powerups: Morph Ball
+############################
+
+BPBBBPBBBPBBBPBBWBBBBLBWBEEEEBEEWBBBBLBWWBBBBLBWWBBBBLBWWBBBBLBWWBBBBLBBEEEEBESSSWBBBBLBWWBBBBAASSWBBBBLBWWBBBBLWBBBBLBWWBBBBLBWBEEEWWWWWWWWWBBBWBBBBLBBEEEEBESS
+BWBZBWBZBWBZBWBZBLRL..BBBBWWBBWBBLRL..BBBLRL..BBBLRL..BBBLRL..BBBLRL..BBBWWBBWWBWBLRL..BBBLRL.WBWBBLRL..BBBLRL..BLRL..BBBLRL..BBBBBWWWWWWWWWBLRLBLRL..BBBWWBBWWB
+ZBBBZBBBZBBBZBBBB...............B.......B.......B.......B.......B.............BZBB.......B....BZBZB.......B.....B.......B..........WWWWWWWWWB...B.............BZ
+BBWBBBWBBPBBBBWB.....................F.....F..................................ZZZZ............ZZZZ.................................WWWWWWWWW..................ZZ
+BPBBBPBBBWBZBPBB..........BPBB.......Z.....Z..................................BBBB............BBBB.................................WWWWWWWWW..................BB
+BWBZBWBZZBBBBWBZ..........BWBZ.......SS...SS.......................................................................................WWWWWWWWW....................
+ZBBBZBBBBBWBZBBB..........ZBPBB......WB...WB........................................BWBBBBWB.......................................WWWWWWWWW....................
+BBWBBPBBBPBBBBWB..........BBWBZ......BZ...BZ.......................................................................................WWWWWWWWW....................
+BPBBBWBZBWBZBPBB...........ZBPBB.....ZZ...ZZ..............................BPPBSSWWWWBBBBBBBBBPBBSSBPB..............................WWWWWWWWW.............BPPBSSS
+BWBZZBBBZBBBBWBZ...........BBWBZ.....BB...BB...................................BWWWW........BWBZWB.................................WWWWWWWWW..................WB
+BPBBBPBBBPBBBBWB......M.....ZBBB...............................................ZWWWW..BBBB..ZBBBBZ.................................WWWWWWWWW..................BZ
+BPBBBPBBBPBBBBWB...F..M..F..BBWB...............................................ZWB............WBZZ.................................WWWWWWWWW..................ZZ
+BWBZBWBZBWBZBPBB...MM.Z.MM...........MMMMMMM...................................BBZ............BZBB............................................................BB
+ZBBBZBBBZBBBBWBZBEEEEBEEBEEEEBEEBEEEEBEEBEEEEBEEBEEEEBEEBEEEEBEEBEEEEBEEBEEEEBEESS............SSBEEEEBEEBEEEEBEEBEEEEBEEBEEEEBEEWWWWWWWWBEEEEBEEBEEEEBEEBEEEEBEE
+BBWBBBWBBBWBZBBBBBWWBBWBBBWWBBWBBBWWBBWBBBWWBBWBBBWWBBWBBBWWBBWBBBWWBBWBBBWWBBWBWBBPB.........WBBBWWBBWBBBWWBBWBBBWWBBWBBBWWBBWBWWWWWWWWBBWWBBWBBBWWBBWBBBWWBBWB
+

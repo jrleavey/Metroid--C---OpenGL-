@@ -1,0 +1,43 @@
+########## Legend ##########
+# . : OPEN_SPOT
+# B : BASE
+# E : EGG_SHAPE
+# Z : VERT_PIPE (formerly PIPE_VERT)
+# F : FACE
+# W : WEB
+# R : TRIANGLE_RIGHT
+# L : TRIANGLE_LEFT
+# P : HORIZ_PIPE (formerly PIPE_HORIZ)
+# S : SPIRAL
+# M : METAL_BLOCK
+# D : DOOR_SQUARE
+# T : LAVA_TOP
+# A : LAVA
+# X : MARIO_TUBE_BLUE_LEFT
+# Y : MARIO_TUBE_BLUE_RIGHT
+# U : BUBBLE
+# Q : SMALL_PIPE
+# I : WHITE_PIPE_VERT
+# Z : WHITE_PIPE_HORIZ
+# N : WHITE_METAL
+# C : WHITE_DOUBLE_PIPE
+# V : GREEN_BLOCK
+# Room Name: Corridor Connecting Room - Part (EAST)
+# Powerups: None
+############################
+
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVWWVVVVWWVVVVVVWWVVVVVVWWVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+VVWVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVWVVVVVWVVVVVVVWVVVVVVVWVVVVVVVVVVVVVVVVVVVVVVVVVWV
+VVVV...............................VVWV...WVVVVVWVVVVVWVWVVVVVWVWVVVVVWV........VVWV........VVVV
+WVVV...............................VVVV...VVVWVWVVVWVWWVVVVWVWWVVVVWVWWV........VVVV........WVVV
+VVWV...............................WVVV.........................................WVVV........VVWV
+D.................................VVWVV..VVVWWVVVVWVVVVVVVWVVVVVVVWWVVVVVV......VVWV...........D
+D.................................VVVV.........................................................D
+D...................Z.............WVVV...VVWWVVVVVVVVVVVVVVVVVVVWVVVVVWV.......................D
+VVWV................Z.............VVWV..........................VVVVVVVV...VVWV.............VVWV
+VVVV................Z......Z....Z.......VVWWVVVVVVVVVVVVVVVVVVVVVVVVVVVV...VVVV.............VVVV
+WVVV................Z......Z....Z..........................................WVVV.............WVVV
+VVWWVVVV............Z......Z....VVWWVVVVVVWWVVVVVVWWVVVVVVWWVVVV...........VVWV.............VVWV
+VVVVWVVV...................Z....VVVVWVVVVVVVWVVVVVVVWVVVVVVVWVVV.........................VVWWVVV
+WVVVVVWVVVWWVVVVVVWWVVVVTVVWWVXYWVVVVVWVWVVVVVWVWVVVVVWVWVVVVVWVTTTTTTTTTTTTTTTTVVWWVVVVVVVVWVVV
+VVVWVWWVVVVVWVVVVVVVWVVVAVVVVWVVVVVWVWWVVVVWVWWVVVVWVWWVVVVWVWWVAAAAAAAAAAAAAAAAVVVVWVVVWVVVVVWV
